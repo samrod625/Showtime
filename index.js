@@ -97,7 +97,7 @@ const movieDetails = [
     rating: "7.5/10",
     release_date: "2025-01-31",
     poster_link:
-      "",
+      "https://tse2.mm.bing.net/th?id=OIP.pSAqEx9NNY7M5OPywFi71wHaEK&pid=Api&P=0&h=180",
   },
   {
     title: "Game Changer",
@@ -111,7 +111,7 @@ const movieDetails = [
     rating: "8.0/10",
     release_date: "2025-01-10",
     poster_link:
-      "https://imgs.search.brave.com/ZyMQ7JvbCcrW4IoPH_fg5InQok-GC9v3AJcfzKwESGs/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9pbWFn/ZXMuZmlsbWliZWF0/LmNvbS9pbWcvcG9w/Y29ybi9tb3ZpZV9w/b3N0ZXJzL2dhbWVj/aGFuZ2VyLTIwMjUw/MTAyMTgyNjMzLTE5/OTExLmpwZw",
+      "https://tse2.mm.bing.net/th?id=OIP.zivbBD_MV-ZcNrXY2WVuxAHaEV&pid=Api&P=0&h=180",
   },
   {
     title: "Fateh",
@@ -131,7 +131,8 @@ const movieDetails = [
     rating: "7.3/10",
     release_date: "2025-01-10",
     poster_link:
-      "https://imgs.search.brave.com/ufQgkMcOFFFV1dbMPnNerC4tJY4KqMKMYzQIdoHmuxI/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9hc3Nl/dHNjZG4xLnBheXRt/LmNvbS9pbWFnZXMv/Y2luZW1hL0ZhdGVo/MS0xYmE3YTZjMC1j/OWNmLTExZWYtOWQ2/Ny00MTNjMGZiNzVj/OGUuanBlZz9mb3Jt/YXQ9d2VicA",
+      "https://e1.pxfuel.com/desktop-wallpaper/295/905/desktop-wallpaper-fateh-sonu-sood-hindi-movie-cast-story-review-videos-ott-watch-bollywood-2022-movie-poster.jpg",
+      
   },
   {
     title: "Den of Thieves 2: Pantera",
@@ -151,7 +152,7 @@ const movieDetails = [
     rating: "7.0/10",
     release_date: "2025-01-10",
     poster_link:
-      "https://imgs.search.brave.com/gjxbMf1laRQgwXNF6-OwrqFCHstx6n9-AgBGBn6YhNg/rs:fit:860:0:0:0/g:ce/aHR0cDovL3d3dy5p/bXBhd2FyZHMuY29t/LzIwMjQvcG9zdGVy/cy9kZW5fb2ZfdGhp/ZXZlc190d29fcGFu/dGVyYV92ZXIyLmpw/Zw",
+      "https://tse3.mm.bing.net/th?id=OIP.-1A2GXlUCq6hN1aLX3uKPQHaEK&pid=Api&P=0&h=180",
   },
   {
     title: "A Real Pain",
@@ -165,7 +166,7 @@ const movieDetails = [
     rating: "4.5/5",
     release_date: "2025-01-17",
     poster_link:
-      "https://imgs.search.brave.com/pLdyyxrS-lVJ5n4yFVsog4mHY3Nk5t8z3euYwJNNVXw/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9jZG4u/Y3JhZnQuY2xvdWQv/MTEwMzM3OWQtNGZm/ZS00MmM5LWFhNjEt/NmEwZjk0OTdmY2U2/L2Fzc2V0cy9maWxt/L2EtcmVhbC1wYWlu/L2EtcmVhbC1wYWlu/LXBvc3Rlci5qcGc_/d2lkdGg9ODAwJnF1/YWxpdHk9ODAmZml0/PWNvbnRhaW4mcz16/TjN1MWJ4RnhUUXRn/TG1OOEloWUdSblVz/QzQ4NjB3RWpucTJM/RWVrRGZN",
+      "https://www.tvinsider.com/wp-content/uploads/2024/04/a-real-pain.jpg",
   },
   {
     title: "Wolf Man",
@@ -179,7 +180,7 @@ const movieDetails = [
     rating: "3.0/5",
     release_date: "2025-01-17",
     poster_link:
-      "https://imgs.search.brave.com/fzZlOAEYBroANAis_pXWFVh2077R_36LpCBazolS_-w/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tb3Zp/ZXMudW5pdmVyc2Fs/cGljdHVyZXMuY29t/L21lZGlhL3dvbGZt/YW4tcG9zdGVyLTY2/ZGIxYmEyOGM1ZTQt/MS5qcGc",
+      "https://i.etsystatic.com/35899754/r/il/ac0d17/4261089105/il_fullxfull.4261089105_rvu2.jpg",
   },
   {
     title: "Nosferatu",
@@ -193,7 +194,7 @@ const movieDetails = [
     rating: "3.5/5",
     release_date: "2025-01-17",
     poster_link:
-      "https://imgs.search.brave.com/UVmyS_sKXXhOheFJ-0xsFJpOj0oxCZI5UVfjMMWsCBE/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tbHBu/azcyeWNpd2MuaS5v/cHRpbW9sZS5jb20v/Y3FoaUhMYy5JSVpT/fjJlZjczL3c6NjAw/L2g6ODg5L3E6NzUv/aHR0cHM6Ly9ibGVl/ZGluZ2Nvb2wuY29t/L3dwLWNvbnRlbnQv/dXBsb2Fkcy8yMDI0/LzA5L05vc2ZlcmF0/dV9PZmZpY2lhbFBv/c3Rlci5qcGc",
+      "https://www.themoviedb.org/t/p/original/rmVsaqanQSE9EGeq9RMjrjJfr2N.jpg",
   },
 
   {
@@ -208,8 +209,8 @@ const movieDetails = [
     rating: "4.0/5",
     release_date: "2025-01-24",
     poster_link:
-      "https://imgs.search.brave.com/oDj8bbZkNXWs1mS8YSZbQ7qNSZHAN6TsJdQGN8IeI7c/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9wcmV2/aWV3LnJlZGQuaXQv/bmV3LXBvc3Rlci1m/b3ItYmV0dGVyLW1h/bi12MC1lY2Y2M3p6/dGh2MGUxLmpwZWc_/d2lkdGg9NjQwJmNy/b3A9c21hcnQmYXV0/bz13ZWJwJnM9Mjky/MGI4Yjk1NGM1NDY3/MDY2NTU3ZWNmNDE2/NDgwY2ViZWNmNjkw/Nw",
-  },
+      "https://streamcoimg-a.akamaihd.net/000/583/25/58325-Banner-L2-0a35e311a2bb853e774e5d393f05dd2a.jpeg",
+  
    {
     title: "Ponniyin Selvan: Part I",
     duration: "2h 50m",
@@ -228,7 +229,7 @@ const movieDetails = [
     rating: "8.1/10",
     release_date: "2022-09-30",
     poster_link:
-      "https://imgs.search.brave.com/N9S-XJeoI4rQayVR1ymdMsAcj3ldxPVHiEYkT0fhzgM/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly93d3cu/cmFqYWNob3phLmNvbS9wL2ltYWdlcy9wb25u/aXlpbl9zZWx2YW4xLmpwZw",
+      "https://tse3.mm.bing.net/th?id=OIP.Zl3Sg6o9E7MGXWYn6J9gpgHaKH&pid=Api&P=0&h=180",
   },
   {
     title: "Vikram",
@@ -248,7 +249,7 @@ const movieDetails = [
     rating: "8.4/10",
     release_date: "2022-06-03",
     poster_link:
-      "https://imgs.search.brave.com/oz1uT9djP-RMch_7trO0XISv57XM4nEyAGQy1owx_Hc/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9hbGxz/aG9zLmNvbS92aWty/YW0tcG9zdGVyLmpwZw",
+      "https://tse4.mm.bing.net/th?id=OIP.lf4wHtY9FN5G7icO2xqAzAHaLH&pid=Api&P=0&h=180",
   },
   {
     title: "Master",
