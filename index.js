@@ -17,7 +17,7 @@ const movieDetails = [
     rating: "7.9/10",
     release_date: "2013-05-31",
     poster_link:
-      "https://imgs.search.brave.com/OG8lm8ltP6nXR0_EzicvMhHUgV69O3YLY-5AP2zaMhE/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9pLnBp/bmltZy5jb20vb3Jp/Z2luYWxzL2Q4Lzdi/LzlkL2Q4N2I5ZGY3/YzVmNjNiN2M4ZmRj/YTNkZWUwN2M1NWMw/LmpwZw",
+      "https://rukminim1.flixcart.com/image/1408/1408/av-media/movies/e/h/t/yeh-jawaani-hai-deewani-original-imadn8wuvzqypchz.jpeg?q=90",
   },
   {
     title: "3 Idiots",
@@ -37,7 +37,7 @@ const movieDetails = [
     rating: "8.4/10",
     release_date: "2009-12-25",
     poster_link:
-      "https://imgs.search.brave.com/JfOcWHkNH2oHqcrG6RP4YlXgm2_80AblThtEeX-SnZU/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9pLmV0/c3lzdGF0aWMuY29t/LzM4Mzk1Mzk1L3Iv/aWwvMDVhNGQ2LzU4/OTc0NzMxNjYvaWxf/NjAweDYwMC41ODk3/NDczMTY2X3J1aTMu/anBn",
+      "https://cdn.shopify.com/s/files/1/0747/3829/products/mNS0669_1024x1024.jpg?v=1501977622"
   },
   {
     title: "Emergency",
@@ -57,7 +57,7 @@ const movieDetails = [
     rating: "8.2/10",
     release_date: "2025-01-17",
     poster_link:
-      "https://imgs.search.brave.com/MRR4AXag1plpJlwF6DQw_ndX048wCY_VqIZ3SJjgdhA/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pLnBp/bmltZy5jb20vb3Jp/Z2luYWxzL2YyL2Nl/LzgzL2YyY2U4MzYz/Mzc4OWIxNTliNTgw/NGE3YjE5M2E2M2Jh/LmpwZw",
+      "https://upload.wikimedia.org/wikipedia/en/3/32/Emergency_movie_poster.jpg",
   },
   {
     title: "Sky Force",
@@ -77,7 +77,7 @@ const movieDetails = [
     rating: "7.8/10",
     release_date: "2025-01-24",
     poster_link:
-      "https://imgs.search.brave.com/zD2Z0wF-SgrK3Zez9_9C8Yx1CXI-h-mQTnwEOB2FheA/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9hc3Nl/dHNjZG4xLnBheXRt/LmNvbS9pbWFnZXMv/Y2luZW1hL1NreS1m/b3JjZV9Qb3RzZXIt/LWdhbGVyeS05MTky/MmRiMC1jYmZmLTEx/ZWYtYTI1OS00YjNj/NmQyNmY0YTkuanBn/P2Zvcm1hdD13ZWJw",
+      "https://tse4.mm.bing.net/th?id=OIP.ty_Q5WAWKFFfqqgzT-iTtQHaFj&pid=Api&P=0&h=180",
   },
   {
     title: "Deva",
@@ -97,7 +97,7 @@ const movieDetails = [
     rating: "7.5/10",
     release_date: "2025-01-31",
     poster_link:
-      "https://imgs.search.brave.com/dyLV9PI1kdpazrOECtn3K0jzXlkYEUCbzBuvRidQ4cU/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9zdGF0/NS5ib2xseXdvb2Ro/dW5nYW1hLmluL3dw/LWNvbnRlbnQvdXBs/b2Fkcy8yMDI1LzAx/L0RldmEtMS0zMjJ4/NDAxLmpwZw",
+      "",
   },
   {
     title: "Game Changer",
