@@ -210,6 +210,178 @@ const movieDetails = [
     poster_link:
       "https://imgs.search.brave.com/oDj8bbZkNXWs1mS8YSZbQ7qNSZHAN6TsJdQGN8IeI7c/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9wcmV2/aWV3LnJlZGQuaXQv/bmV3LXBvc3Rlci1m/b3ItYmV0dGVyLW1h/bi12MC1lY2Y2M3p6/dGh2MGUxLmpwZWc_/d2lkdGg9NjQwJmNy/b3A9c21hcnQmYXV0/bz13ZWJwJnM9Mjky/MGI4Yjk1NGM1NDY3/MDY2NTU3ZWNmNDE2/NDgwY2ViZWNmNjkw/Nw",
   },
+   {
+    title: "Ponniyin Selvan: Part I",
+    duration: "2h 50m",
+    language: "Tamil",
+    director: "Mani Ratnam",
+    cast: [
+      "Vikram",
+      "Aishwarya Rai Bachchan",
+      "Karthi",
+      "Trisha",
+      "Jayam Ravi",
+    ],
+    description:
+      "An epic tale of power, ambition, and love set in the Chola dynasty.",
+    genre: "Historical, Drama",
+    rating: "8.1/10",
+    release_date: "2022-09-30",
+    poster_link:
+      "https://imgs.search.brave.com/N9S-XJeoI4rQayVR1ymdMsAcj3ldxPVHiEYkT0fhzgM/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly93d3cu/cmFqYWNob3phLmNvbS9wL2ltYWdlcy9wb25u/aXlpbl9zZWx2YW4xLmpwZw",
+  },
+  {
+    title: "Vikram",
+    duration: "2h 53m",
+    language: "Tamil",
+    director: "Lokesh Kanagaraj",
+    cast: [
+      "Kamal Haasan",
+      "Vijay Sethupathi",
+      "Fahadh Faasil",
+      "Narain",
+      "Kalidas Jayaram",
+    ],
+    description:
+      "A retired cop takes on a drug cartel in this action-packed thriller.",
+    genre: "Action, Thriller",
+    rating: "8.4/10",
+    release_date: "2022-06-03",
+    poster_link:
+      "https://imgs.search.brave.com/oz1uT9djP-RMch_7trO0XISv57XM4nEyAGQy1owx_Hc/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9hbGxz/aG9zLmNvbS92aWty/YW0tcG9zdGVyLmpwZw",
+  },
+  {
+    title: "Master",
+    duration: "2h 59m",
+    language: "Tamil",
+    director: "Lokesh Kanagaraj",
+    cast: [
+      "Vijay",
+      "Vijay Sethupathi",
+      "Malavika Mohanan",
+      "Andrea Jeremiah",
+      "Shanthanu Bhagyaraj",
+    ],
+    description:
+      "A troubled professor is sent to a juvenile school, where he clashes with a gangster.",
+    genre: "Action, Thriller",
+    rating: "7.8/10",
+    release_date: "2021-01-13",
+    poster_link:
+      "https://imgs.search.brave.com/zA1ErHzQAo6FlvTuTzUdvP4LY-7pZjoxDsOfSNEIO54/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9tZWRp/YS5ubGVjZG4uY29t/L2ltYWdlcy8yMDIx/LzAxLzE0LzQ4MS8x/MDc1NTk0My9tYXN0/ZXItbW92aWUuanBn",
+  },
+  {
+    title: "Jai Bhim",
+    duration: "2h 44m",
+    language: "Tamil",
+    director: "T.J. Gnanavel",
+    cast: ["Suriya", "Lijomol Jose", "Manikandan", "Rajisha Vijayan"],
+    description:
+      "A lawyer fights for the rights of a tribal woman wrongfully accused of a crime.",
+    genre: "Drama, Legal",
+    rating: "9.4/10",
+    release_date: "2021-11-02",
+    poster_link:
+      "https://imgs.search.brave.com/WUkg1VE-AXunHs78e9mF-E7CB9cggdvvAeM7p1PuzAs/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly93d3cu/b2lsYW5jZWRvbWUu/bmV0L3RoZS1zdXJp/eWEtc3RhcnJlci1p/bi1qYWktYmhpbS8x/LmpwZw",
+  },
+  {
+    title: "Doctor",
+    duration: "2h 28m",
+    language: "Tamil",
+    director: "Nelson Dilipkumar",
+    cast: ["Sivakarthikeyan", "Vinay Rai", "Priyanka Arul Mohan"],
+    description:
+      "A military doctor devises a cunning plan to rescue his fiancée's kidnapped niece.",
+    genre: "Comedy, Thriller",
+    rating: "8.0/10",
+    release_date: "2021-10-09",
+    poster_link:
+      "https://imgs.search.brave.com/49yIW9x70Ue5GOnqLgAHK2uw_VElxyGQ9FxxHo5m-rY/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly93d3cu/b2lsYW5jZWRvbWUu/bmV0L2RvY3Rvci1m/aWxtLXNraWwtYXJ0/aXN0cy8xLmpwZw",
+  },
+  {
+    title: "Soorarai Pottru",
+    duration: "2h 29m",
+    language: "Tamil",
+    director: "Sudha Kongara",
+    cast: ["Suriya", "Aparna Balamurali", "Paresh Rawal"],
+    description:
+      "A man's dream of starting a low-cost airline inspires a journey of passion and determination.",
+    genre: "Drama, Biography",
+    rating: "9.1/10",
+    release_date: "2020-11-12",
+    poster_link:
+      "https://imgs.search.brave.com/XybLMp1wHoFCXHGiIzQQyOYihXxfjj_-mdCNyS6O91k/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9tZWRp/YWxvb3MuY29tL2lt/YWdlcy9zb29yYXJh/aV9wb3R0cnVfY292/ZXJfcmV2aWV3LnBu/Zw",
+  },
+  {
+    title: "Asuran",
+    duration: "2h 21m",
+    language: "Tamil",
+    director: "Vetrimaaran",
+    cast: ["Dhanush", "Manju Warrier", "Pasupathy", "Teejay Arunasalam"],
+    description:
+      "A gripping rural drama about caste-based oppression and a father's fierce protection of his family.",
+    genre: "Action, Drama",
+    rating: "8.5/10",
+    release_date: "2019-10-04",
+    poster_link:
+      "https://imgs.search.brave.com/xlpBrP8VmYDW_FfxWCEixfbnH8OaMhAtHZfMdvm_d6I/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9mMTEy/Yy5zYXZld2ViLmNv/bS9tZWRpYS8tVmVi/cjRyN2RyTEpZL2Fz/dXJhbi1wb3N0ZXIu/anBn",
+  },
+  {
+    title: "Kaithi",
+    duration: "2h 25m",
+    language: "Tamil",
+    director: "Lokesh Kanagaraj",
+    cast: ["Karthi", "Narain", "Arjun Das", "George Maryan"],
+    description:
+      "An ex-convict must save injured policemen from a ruthless gang while transporting them to safety.",
+    genre: "Action, Thriller",
+    rating: "8.6/10",
+    release_date: "2019-10-25",
+    poster_link:
+      "https://imgs.search.brave.com/lXKxwAr_5KImu2clv9uJhAi3NUbSCGVoaYosKZ16B7Q/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9mMTEy/Yy5zYXZld2ViLmNv/bS9tZWRpYS8tb0N1/eTlzM29MbnFLL2th/aXRoLXJldmlldy5q/cGc",
+  },
+  {
+    title: "Soorarai Pottru",
+    duration: "2h 29m",
+    language: "Tamil",
+    director: "Sudha Kongara",
+    cast: ["Suriya", "Aparna Balamurali", "Paresh Rawal", "Urvashi"],
+    description:
+      "An inspiring story about an ordinary man's dream to launch a low-cost airline in India.",
+    genre: "Drama, Biography",
+    rating: "9.1/10",
+    release_date: "2020-11-12",
+    poster_link:
+      "https://imgs.search.brave.com/XKujZlcsh_h-vUNvNqLKZCT7mWbnf3CoVtNYoeKxR44/rs:fit:860:0:0:0/g:ce/aHR0cDovL3d3dy5p/bWFnZXNtdnkuY29t/L2ltYWdlcy9zb29y/YXJhaXBvdHRydS1w/b3N0ZXIuanBn",
+  },
+  {
+    title: "Thalapathi",
+    duration: "2h 37m",
+    language: "Tamil",
+    director: "Mani Ratnam",
+    cast: ["Rajinikanth", "Mammootty", "Shobana", "Arvind Swami"],
+    description:
+      "A gripping tale of loyalty and betrayal, exploring the friendship between two men amidst a backdrop of crime.",
+    genre: "Drama, Action",
+    rating: "8.6/10",
+    release_date: "1991-11-05",
+    poster_link:
+      "https://imgs.search.brave.com/5AgzgDdEV1cDX77bFTkTKHZYTA7QCOBYF4emWQQyHFo/rs:fit:860:0:0:0/g:ce/aHR0cDovL3d3dy5p/bWFnZXNtdnkuY29t/L2ltYWdlcy90aGFs/YXBhdGhpLXBvc3Rl/ci5qcGc",
+  },
+  {
+    title: "Enthiran",
+    duration: "2h 54m",
+    language: "Tamil",
+    director: "Shankar",
+    cast: ["Rajinikanth", "Aishwarya Rai Bachchan", "Danny Denzongpa"],
+    description:
+      "A scientist builds a humanoid robot that eventually develops emotions, leading to a catastrophic conflict.",
+    genre: "Sci-Fi, Action",
+    rating: "7.2/10",
+    release_date: "2010-10-01",
+    poster_link:
+      "https://imgs.search.brave.com/vpq7LyW9F5SBUNXAd0a6NeNRPK1G3REn6ioUnuC3co4/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9hc3Nl/dHMuY29sdGx5Lmlu/L3VwbG9hZHMvcG9z/dGVycy9vcmlnaW5h/bC85L2UvdGgvZW50/aGlyYW4tcG9zdGVy/LXNjaWZpLmpwZw",
+  },
 ];
 
 export default movieDetails;
